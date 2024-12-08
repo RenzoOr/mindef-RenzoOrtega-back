@@ -1,0 +1,5 @@
+-- Creación de la base de datos
+CREATE DATABASE bdmindefrenzoortega;
+
+--Cambiar la contraseña en el properties, segun la que sea de su local
+spring.datasource.password=colocar_contraseña_de_su_local
